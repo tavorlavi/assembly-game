@@ -24,11 +24,10 @@
 1. **Download and install DOSBox-X** from [https://dosbox-x.com](https://dosbox-x.com)
 2. Place the game files in a directory (e.g., `C:\minigolf`)
 3. Launch DOSBox-X
-4. Mount the directory in DOSBox-X:
+4. Mount the directory in DOSBox-X and run the ga,t:
    ```bash
    MOUNT C C:\minigolf
    C:
    GG.EXE
-```
 
 ## ⛳ Enjoy the game!
